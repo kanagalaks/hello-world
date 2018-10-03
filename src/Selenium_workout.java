@@ -30,7 +30,7 @@ System.out.println("String methods in java");
          System.out.println(sb.append("Automation"));
         System.out.println(sb.insert(1,"selenium"));   
         System.out.println("***********END*************");
-        System.out.println("Automation"));
+        System.out.println("Automation");
 	}
 }
 		
